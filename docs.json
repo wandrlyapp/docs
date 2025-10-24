@@ -7,6 +7,9 @@
     "light": "#FEEFD3",
     "dark": "#FF990A"
   },
+  "fonts": {
+  "family": "Inter"
+},
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -21,9 +24,12 @@
             ]
           },
           {
-        "group": "Guides 2",
+        "group": "Guides",
         "pages": [
-          "connections/linkedin-integration"
+          "guides/your-first-list",
+          "guides/place-details",
+          "guides/filters",
+          "guides/sharing-lists"
         ]
       }
         ]
