@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
-  "name": "Wandrly Support",
+  "name": "Wandrly Help Center",
   "colors": {
-    "primary": "#FF990A",
+    "primary": "#F9AF24",
     "light": "#FEEFD3",
     "dark": "#FF990A"
   },
