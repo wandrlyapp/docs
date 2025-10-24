@@ -38,9 +38,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Home",
+          "anchor": "Homepage",
           "href": "https://www.wandrly.app/",
-          "icon": "book-open-cover"
+          "icon": "home"
         },
         {
           "anchor": "Blog",
