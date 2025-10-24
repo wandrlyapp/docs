@@ -19,7 +19,13 @@
               "index",
               "quickstart"
             ]
-          }
+          },
+          {
+        "group": "Guides 2",
+        "pages": [
+          "connections/linkedin-integration"
+        ]
+      }
         ]
       }
     ],
