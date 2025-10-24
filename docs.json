@@ -3,7 +3,7 @@
   "theme": "almond",
   "name": "Wandrly Support",
   "colors": {
-    "primary": "#F9AF24",
+    "primary": "#000000",
     "light": "#FEEFD3",
     "dark": "#FF990A"
   },
