@@ -23,7 +23,7 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Quickstart",
         "groups": []
       }
     ],
@@ -55,7 +55,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Your Lists",
       "href": "https://lists.wandrly.app"
     }
   },
