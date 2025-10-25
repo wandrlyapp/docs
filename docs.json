@@ -10,6 +10,11 @@
   "fonts": {
   "family": "Poppins"
 },
+  "integrations": {
+    "gtm": {
+        "tagId": "GTM-54QZPZV6"
+    }
+},
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
